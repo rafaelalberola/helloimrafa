@@ -1,0 +1,14 @@
+{
+    "name": "Hello, I'm Rafa.",
+    "short_name": "Hello, I'm Rafa.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Diseño Creativo y Desarrollo Web",
+    "theme_color": "#fff",
+    "icons": [{
+        "src": "./images/icon-app.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }]
+}
