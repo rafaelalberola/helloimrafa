@@ -661,14 +661,16 @@
     .linked-in-icon,
     .github-icon,
     .medium2-icon,
-    .instagram-icon {
+    .instagram-icon, 
+    .behance-icon {
         padding: 0 10px 0;
     }
     
     .linked-in-icon svg,
     .github-icon svg,
     .medium2-icon svg,
-    .instagram-icon svg {
+    .instagram-icon svg,
+    .behance-icon svg {
         transition: all .3s ease;
         fill: #171717;
     }
@@ -676,7 +678,8 @@
     .linked-in-icon:hover svg,
     .github-icon:hover svg,
     .medium2-icon:hover svg,
-    .instagram-icon:hover svg {
+    .instagram-icon:hover svg,
+    .behance-icon:hover svg {
         fill: #171717;
         transform: scale(.9)
     }
