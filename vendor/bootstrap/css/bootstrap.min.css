@@ -47,7 +47,6 @@
         line-height: 1.15;
         -webkit-text-size-adjust: 100%;
         -webkit-tap-highlight-color: transparent;
-        scroll-behavior: smooth;
         cursor: none !important;
     }
     
@@ -935,6 +934,7 @@
         padding-top: 56px;
         overflow-y: scroll;
         -webkit-overflow-scrolling: touch;
+        scroll-behavior: smooth;
     }
     
     [tabindex="-1"]:focus {
